@@ -17,7 +17,7 @@ Script Python que converte arquivos PDF em documentos Markdown (`.md`) usando a 
 - Vá no `Terminal` (`Ctrl` + `` ), e execute `pip install docling`
 
 ### 2. Main.py
-- Com isso, pode criar um arquivo `main.py` e colar o código.
+- Com isso, pode criar um arquivo [`main.py`](https://github.com/sthecss/docling/blob/main/main.py) e colar o código.
 
 ---
 
